@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Princess Elana",
+        "image": "/assets/images/elana.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Naomi",
+        "image": "/assets/images/naomi.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shuriki",
+        "image": "/assets/images/shuriki.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mateo",
+        "image": "/assets/images/mateo.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Isabel Elanas Little Sister",
+        "image": "/assets/images/isabel.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Migs Jaquin",
+        "image": "/assets/images/migs.png"
+    },
+    {
+        "id": 7,
+        "name": "Skylar Jaquin",
+        "image": "/assets/images/skylar.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Luisa Elana's Grandmother",
+        "image": "/assets/images/luisa.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Gabe",
+        "image": "/assets/images/gabe.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Luna Jaquin",
+        "image": "/assets/images/luna.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Francisco Elanas Grandfather",
+        "image": "/assets/images/francisco.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Chancellor Esteban Elanas Cousin",
+        "image": "/assets/images/esteban.jpg"
+    }
+]
